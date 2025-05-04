@@ -16,7 +16,7 @@ GoWhispers is an advanced tool designed for security researchers, system program
 
 ## Screenshots
 
-![GoWhispers Screenshot] [Image](https://github.com/user-attachments/assets/9c809ec0-8ad6-46a5-a409-735ec403eaf9)
+![GoWhispers Screenshot] (https://github.com/user-attachments/assets/9c809ec0-8ad6-46a5-a409-735ec403eaf9)
 
 
 ## Installation
